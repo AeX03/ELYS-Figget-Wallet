@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/AeX03/ELYS-Figget-Wallet/blob/main/ELYSFiggetWallet-Banwer.png"  width="1100"/>
+<img src="https://github.com/AeX03/ELYS-Figget-Wallet/blob/main/ELYSFiggetWallet%20-%20Banwer.png"  width="1100"/>
 
 # ELYS-Figget-Wallet
  - Finder Wallet
