@@ -51,7 +51,7 @@ in terminal type the following command to see if you have installed the correct 
 
 `npm install http crypto puppeteer readline octonode fs colors process node-fetch web3 ethereumjs-tx axios`
 <br>
-`cargo add reqwest crypto`
+`cargo add reqwest crypto aes`
 
 ## Video
 
