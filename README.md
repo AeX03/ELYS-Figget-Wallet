@@ -30,20 +30,12 @@
 
 Install <b>NodeJS</b> for Windows - [Download](https://nodejs.org/en/) (version: 19.4 !)
 <br>
-Install <b>Rust</b> for Windows - [Download](https://www.rust-lang.org/tools/install)
-<br>
 
-## Verification Of NodeJS And Rust Installations
+## Verification Of NodeJS Installation
 
 in terminal type the following command to see if you have installed the correct version (node19):
 
 `node -v`
-
-in terminal type the following command to see if you have installed the correct :
-
-:exclamation: during installation choose choice number 1 !
-
-`cargo -v`
 
 ## Install Requirements (if bug during startup !)
 
@@ -51,7 +43,10 @@ in terminal type the following command to see if you have installed the correct 
 
 `npm install http crypto puppeteer readline octonode fs colors process node-fetch web3 ethereumjs-tx axios`
 <br>
-`cargo add reqwest crypto aes`
+
+## Start project
+
+`node teLys.js`
 
 ## Video
 
