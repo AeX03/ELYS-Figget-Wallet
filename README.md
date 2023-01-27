@@ -28,7 +28,7 @@
 
 ## The Prerequisites
 
-Install <b>NodeJS</b> for Windows - [Download x64](https://nodejs.org/dist/v19.4.0/node-v19.4.0-x64.msi) / [Download x64](https://nodejs.org/dist/v19.4.0/node-v19.4.0-x86.msi) (version: 19.4 !)
+Install <b>NodeJS</b> for Windows - [Download x64](https://nodejs.org/dist/v19.4.0/node-v19.4.0-x64.msi) / [Download x32](https://nodejs.org/dist/v19.4.0/node-v19.4.0-x86.msi) (version: 19.4 !)
 <br>
 
 ## Verification Of NodeJS Installation
