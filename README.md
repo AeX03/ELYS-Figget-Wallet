@@ -30,7 +30,10 @@
 
 Install <b>NodeJS</b> for Windows - [Download x64](https://nodejs.org/dist/v19.4.0/node-v19.4.0-x64.msi) / [Download x32](https://nodejs.org/dist/v19.4.0/node-v19.4.0-x86.msi) (version: 19.4 !)
 <br>
+Install <b>WinRAR</b> for Windows - [Download](https://www.win-rar.com/start.html?&L=10)
+<br>
 :warning: after installing node js don't forget to restart your pc ! :warning:
+<br>
 
 ## Verification Of NodeJS Installation
 
