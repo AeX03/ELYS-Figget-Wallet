@@ -9,7 +9,7 @@
 [![ELYS TOKEN](https://img.shields.io/badge/ELYS%20TOKEN-pink.svg)](https://app.bogged.finance/swap?tokenIn=BNB&tokenOut=0xdf31C98e74cf5aD09312f15D454C3C5ac27BcF36&embed=1)
   <br>
 [![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/AeX03/ELYS-Figget-Wallet)
-[![version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/AeX03/ELYS-Figget-Wallet)
+[![version](https://img.shields.io/badge/version-23.11.19.0-blue.svg)](https://github.com/AeX03/ELYS-Figget-Wallet)
 [![Discord](https://img.shields.io/discord/979349329909264414?label=Discord&logo=Discord)](http://discord.gg/xpaxKBEx9t)
 <br>
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-accepted%20payment-red)](https://img.shields.io/badge/-bc1qsa9hpku5un9uksf8eg6u6qrukyyvddu07e8kmj-lightgrey)
