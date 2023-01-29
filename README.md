@@ -56,7 +56,11 @@ in terminal type the following command to see if you have installed the correct 
 
 ## Video
 
-[Video](https://www.tiktok.com/@libelluleadmin/video/7189006725062593798?is_from_webapp=1&sender_device=pc&web_id=7146649742423967238)
+[Video](https://user-images.githubusercontent.com/103602164/215354593-999edbae-2f7a-4f78-9051-e03301bb3641.mov)
+
+<br>
+
+[Joy](https://user-images.githubusercontent.com/103602164/215354614-d951ad26-36c4-4dc9-bfd7-b3815766a5e3.jpg)
 
 ## Where To Find His License
 
