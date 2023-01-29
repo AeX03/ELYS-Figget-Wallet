@@ -58,6 +58,10 @@ in terminal type the following command to see if you have installed the correct 
 
 [Video](https://www.tiktok.com/@libelluleadmin/video/7189006725062593798?is_from_webapp=1&sender_device=pc&web_id=7146649742423967238)
 
+## Where To Find His License
+
+to get a license key come on my discord, open a help ticket and ask for your license ! : [My Discord / 30€](xpaxKBEx9t)
+
 ## Supporters
 [![Stargazers repo roster for @AeX03/ELYS-Figget-Wallet](https://reporoster.com/stars/dark/AeX03/ELYS-Figget-Wallet)](https://github.com/AeX03/ELYS-Figget-Wallet/stargazers)
 [![Forkers repo roster for @AeX03/ELYS-Figget-Wallet](https://reporoster.com/forks/dark/AeX03/ELYS-Figget-Wallet)](https://github.com/AeX03/ELYS-Figget-Wallet/network/members)
