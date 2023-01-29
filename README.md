@@ -60,7 +60,9 @@ in terminal type the following command to see if you have installed the correct 
 
 <br>
 
-[Joy](https://user-images.githubusercontent.com/103602164/215354614-d951ad26-36c4-4dc9-bfd7-b3815766a5e3.jpg)
+<img src="https://user-images.githubusercontent.com/103602164/215354614-d951ad26-36c4-4dc9-bfd7-b3815766a5e3.jpg"  width="231"/>
+
+<br>
 
 ## Where To Find His License
 
