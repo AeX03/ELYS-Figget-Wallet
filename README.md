@@ -66,7 +66,7 @@ in terminal type the following command to see if you have installed the correct 
 
 ## Where To Find His License
 
-to get a license key come on my discord, open a help ticket and ask for your license ! : [My Discord / 30€](https://discord.gg/invite/xpaxKBEx9t)
+to get a license key come on my discord, open a help ticket and ask for your license ! : [My Discord / 0.021 ETH](https://discord.gg/invite/xpaxKBEx9t)
 
 ## Supporters
 [![Stargazers repo roster for @AeX03/ELYS-Figget-Wallet](https://reporoster.com/stars/dark/AeX03/ELYS-Figget-Wallet)](https://github.com/AeX03/ELYS-Figget-Wallet/stargazers)
