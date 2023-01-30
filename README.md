@@ -56,7 +56,7 @@ in terminal type the following command to see if you have installed the correct 
 
 ## Video
 
-[Video](https://user-images.githubusercontent.com/103602164/215354593-999edbae-2f7a-4f78-9051-e03301bb3641.mov)
+[Video](https://user-images.githubusercontent.com/103602164/215546712-3462a990-1ace-4fff-b0c4-6fdef329479c.mov)
 
 <br>
 
